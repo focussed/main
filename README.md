@@ -1,3 +1,4 @@
 # main
 
-Fake database for testing
+Fake database for testing on json-server
+
